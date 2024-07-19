@@ -1,1 +1,1 @@
-# Bioinformatics_for_evolutionary_biologists_exercises
+# Python for biologists book exercises
